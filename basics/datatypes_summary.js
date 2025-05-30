@@ -37,3 +37,8 @@ const myfunction = function () {
 }
 
 //console.log(typeof ...) //datatype pata krme k liye data likho typeof k bad..
+
+
+// stack and heap
+
+//stack(primitive) heap(non-primitive)
